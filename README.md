@@ -1,2 +1,2 @@
-# windows resource-repo
-Windows OS Patches
+# exchange resource-repo
+Exchange Patches
